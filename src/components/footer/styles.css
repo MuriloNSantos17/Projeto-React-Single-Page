@@ -1,0 +1,21 @@
+footer{
+    margin-top: 20px !important;
+    height: 65px;
+    width: 100%;
+    background-color: #383E47;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FF6900;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+.div-autor{
+    margin: auto;
+    text-align: center;
+}
+

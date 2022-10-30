@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;1,300&display=swap');
+
+.div-artigo{
+    padding: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.prg-about{
+    text-align: justify;
+    line-height: 20px;
+    padding: 0px 20px;
+    font-size: 20px;
+    margin-bottom: 10px
+}
+
+.div-artigo h1{
+    color: #FF6900;
+    margin-bottom: 20px;
+}
+
+.produtos{
+    padding: 2px 20px;
+    margin: 0 auto;
+}
+
+
+
+.produtos h2{
+    margin-top: 25px 10px;
+    color: #FF6900;
+    
+}
+
+.sub-produtos{
+    justify-content: center;
+    display: flex;
+   
+    font-size: 3em;
+    width: 200px;
+    color: #FF6900;
+    
+}
+
+.sub-produtos p{
+    font-size: 25px;
+    font-weight: bold;
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@0,400;1,300&display=swap');
+
+.main-home{
+    margin: auto;
+    width: 1000px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.473);
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.img-fone{
+    height: 350px;
+}
+
+.container-produto{
+    
+}
+
+.container-descricao{
+    text-align: right;
+}
+.container-descricao h3, .container-descricao h1{
+    font-family: 'Open Sans', sans-serif;
+    
+    color: #484B51;
+}
+
+.container-descricao p{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-descricao s{
+    color: red;
+}
+
+.container-descricao .prg-preco-desconto{
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+
+.container-descricao h1{
+    font-size: 3em;
+}
+
+.container-descricao .prg-parcelamento{
+    font-size: 13px;
+}
+
+
