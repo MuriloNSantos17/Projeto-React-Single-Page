@@ -1,6 +1,6 @@
 # Projeto ReactJS 
 
-Um site simples com react utilizando dos conceitos de simple page. 
+Um site simples com react utilizando dos conceitos de single page. 
 
 ## 🚀 Começando
 
